@@ -1,0 +1,3 @@
+executar o comando "python -m Pyro4.naming"
+executar o servidor
+executar quantas instancias de client quer conectar ao servidor
